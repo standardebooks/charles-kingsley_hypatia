@@ -35,6 +35,7 @@ footer{
 
 #dedication > p:first-of-type + p{
 	text-indent: 0;
+	font-variant: small-caps;
 }
 
 #chapter-24 blockquote[epub|type~="z3998:letter"] header{
