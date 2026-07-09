@@ -36,3 +36,12 @@ footer{
 #dedication > p:first-of-type + p{
 	text-indent: 0;
 }
+
+#chapter-24 blockquote[epub|type~="z3998:letter"] header{
+	font-style: italic;
+	margin-bottom: 1em;
+}
+
+#chapter-24 blockquote[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
