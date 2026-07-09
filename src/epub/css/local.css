@@ -38,6 +38,10 @@ blockquote header{
 	margin-bottom: 1em;
 }
 
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
 #dedication h2{
 	margin-bottom: 0;
 }
