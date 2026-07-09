@@ -50,8 +50,11 @@ abbr[epub|type~="se:era"]{
 	font-variant: small-caps;
 }
 
-#dedication > p:first-of-type + p{
+#dedication > p:first-of-type{
 	font-variant: small-caps;
+}
+
+#dedication > p:first-of-type + p{
 	text-indent: 0;
 }
 
