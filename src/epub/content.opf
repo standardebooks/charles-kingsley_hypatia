@@ -77,10 +77,10 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">Arthur Hacker</dc:contributor>
-		<meta property="file-as" refines="#artist">Hacker, Arthur</meta>
-		<link href="https://en.wikipedia.org/wiki/Arthur_Hacker" refines="#artist" rel="schema:sameAs"/>
-		<link href="https://id.loc.gov/authorities/names/nr92027511.html" refines="#artist" rel="schema:sameAs"/>
+		<dc:contributor id="artist">Julius Kronberg</dc:contributor>
+		<meta property="file-as" refines="#artist">Kronberg, Julius</meta>
+		<link href="https://en.wikipedia.org/wiki/Julius_Kronberg" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n2017003137.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">P. J. Riddick</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Riddick, P. J.</meta>
