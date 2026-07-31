@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/charles-kingsley/hypatia</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-07-31T16:45:36Z</dc:date>
+		<meta property="dcterms:modified">2026-07-31T16:45:36Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Hypatia, or, New Foes with an Old Face</dc:title>
 		<meta property="file-as" refines="#fulltitle">Hypatia</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
@@ -56,15 +56,19 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2010119148</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A naive young monk in Roman Alexandria tries to convert a famous pagan woman philosopher to Christianity.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Philammon is a young monk living in an isolated Egyptian monastery circa 400 AD. He feels a longing to see the world, so he embarks on a trip to Alexandria, a city teeming with culture and learning. On his way he meets Pelagia, a beautiful courtesan traveling up the Nile with a band of Goths in search of Asgard.&lt;/p&gt;
+			&lt;p&gt;On reaching the legendary city, Philammon quickly finds himself embroiled in the feud between Orestes, the city’s prefect, and Cyril, the city’s Catholic archbishop. As he tries to navigate these troubled political waters, he hears of Hypatia, a woman philosopher and one of the last prominent champions of the Greek gods. Hypnotized by her knowledge and beauty, he undertakes to convert her to Christianity—but as his naivete keeps preventing him from reaching the brilliant philosopher, it becomes apparent that she’s being used as a pawn in Orestes’ and Cyril’s dangerous games. Meanwhile, Pelagia and her violent Goth friends complicate matters significantly.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Hypatia&lt;/i&gt; is historical fiction based on real events and people. &lt;a href="https://standardebooks.org/ebooks/charles-kingsley"&gt;Kingsley&lt;/a&gt; wrote it mainly as a Christian apologia, asserting the moral superiority of Christianity over not just pagan religions, but Judaism, Catholicism, and Neoplatonism as well; but despite this, the novel spares few from scrutiny, with almost everyone engaging in their fair share of scheming and violence.&lt;/p&gt;
+			&lt;p&gt;Hypatia herself, historically a prominent philosopher, mathematician, and astronomer, is protrayed as a strong, noble, and pure thinker. Kingsley’s characterization popularized her as the last of the great pagans, and made her an icon for women’s rights and feminism.&lt;/p&gt;
+			&lt;p&gt;The novel is said to have been Queen Victoria’s favorite of Kingsley’s, and it inspired at least three contemporary paintings, one of which sparked an intense debate on nudity in art.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6308</dc:source>
 		<dc:source>https://www.google.com/books/edition/Hypatia_v_I_and_II/VfAD1t3bmUwC</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">167750</meta>
+		<meta property="schema:educationalLevel">69.82</meta>
 		<link href="https://en.wikipedia.org/wiki/Hypatia_(novel)" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
