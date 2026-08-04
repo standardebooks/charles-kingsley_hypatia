@@ -56,7 +56,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2010119148</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A naive young monk in Roman Alexandria tries to convert a famous pagan woman philosopher to Christianity.</dc:abstract>
+		<meta property="schema:abstract">A naive young monk in Roman Alexandria tries to convert a famous pagan woman philosopher to Christianity.</meta>
 		<dc:description>
 			&lt;p&gt;Philammon is a young monk living in an isolated Egyptian monastery circa 400 AD. He feels a longing to see the world, so he embarks on a trip to Alexandria, a city teeming with culture and learning. On his way he meets Pelagia, a beautiful courtesan traveling up the Nile with a band of Goths in search of Asgard.&lt;/p&gt;
 			&lt;p&gt;On reaching the legendary city, Philammon quickly finds himself embroiled in the feud between Orestes, the city’s prefect, and Cyril, the city’s Catholic archbishop. As he tries to navigate these troubled political waters, he hears of Hypatia, a woman philosopher and one of the last prominent champions of the Greek gods. Hypnotized by her knowledge and beauty, he undertakes to convert her to Christianity—but as his naivete keeps preventing him from reaching the brilliant philosopher, it becomes apparent that she’s being used as a pawn in Orestes’ and Cyril’s dangerous games. Meanwhile, Pelagia and her violent Goth friends complicate matters significantly.&lt;/p&gt;
